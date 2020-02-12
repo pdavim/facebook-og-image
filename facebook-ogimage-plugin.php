@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Facebook Image Og PlugIn
-Description: Add image OG
-Plugin URI: https://akismet.com/
+Description: solve OG Image problem
+Plugin URI: https://github.com/pdavim/facebook-og-image
 Description: Pugin to solve OG Image problem
 Version: 1.0.1
 Author: pdavim
